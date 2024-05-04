@@ -27,9 +27,9 @@ RRManager — это приложение Redpill Recovery DSM, предназн
 ## Меняем язык на русский
 
 1. скачиваем файл
----
+--
 https://github.com/ZwiReKsyno/RRManager_Synology/raw/main/strings.7z
----
+--
 2. разархивировать файл
 3. заменяем по пути:
  - /ваш диск/@appstore/rr-manager/app/texts/rus
